@@ -1,0 +1,11 @@
+[package]
+name = "relm-circle"
+version = "0.1.0"
+authors = ["CrazyRedBird <kyoukinoakaitori@foxmail.com>"]
+edition = "2018"
+
+[dependencies]
+gtk = "^0.5.0"
+relm = "^0.15.0"
+relm-attributes = "^0.15.0"
+relm-derive = "^0.15.0"
